@@ -19,23 +19,23 @@ const images = [
 const projects = [
   {
     img: retail,
-    title: "Project 1",
+    title: "First Project",
     description: "IoT Retail Monitor System",
-    modalContent: "This project is designed for retail businesses. It uses IoT to help monitor and manage stocks.",
+    modalContent: "This project is specifically designed for retail businesses that need efficient and accurate stock management. It uses Internet of Things (IoT) technology to continuously track product quantities, monitor shelf status in real-time, and send alerts when items are running low. This automation helps reduce human error, improves inventory accuracy, and ensures that businesses can make timely restocking decisions.",
     bg: gray
   },
   {
     img: camera,
-    title: "Project 2",
+    title: "Second Project",
     description: "Home Facial Recognition CCTV",
-    modalContent: "A smart CCTV system with facial recognition for home security.",
+    modalContent: "This is an intelligent CCTV surveillance system built for enhancing home security. It integrates facial recognition technology with IoT connectivity to identify individuals entering the premises. The system can differentiate between registered household members and unknown visitors, automatically notifying the homeowner of potential intrusions. It offers a safer and more efficient alternative to traditional security cameras by providing instant alerts and detailed identity logs.",
     bg: ring
   },
   {
     img: glasses,
-    title: "Project 3",
+    title: "Third Project",
     description: "IoT Integrated Glasses for the Blind",
-    modalContent: "Smart glasses that assist visually impaired users using IoT technology.",
+    modalContent: "These smart glasses are designed to assist people with visual impairments in navigating their surroundings more safely and independently. Using IoT-connected sensors and cameras, the glasses detect objects, obstacles, and landmarks in the wearer’s path. They provide real-time audio feedback or vibrations to guide the user, helping them identify what is ahead and avoid potential hazards. This technology aims to improve mobility, independence, and quality of life for visually impaired individuals.",
     bg: linear
   }
 ]

@@ -6,6 +6,7 @@ const Home = () => {
   return (
     <div className="header-container">
       <div
+        id = "home"
         className="image-background"
         style={{
           backgroundImage: `url(${space})`,

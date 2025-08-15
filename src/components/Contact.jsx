@@ -11,7 +11,7 @@ const Contact = () => {
   return (
     <div className="contact-bg">
       <section id="contact" className="contact-page">
-        <h2>Contact Us</h2>
+        <h2>Contact Me</h2>
         <form id="contact-form" onSubmit={handleSubmit}>
           <input type="text" placeholder="Your Name" required />
           <input type="email" placeholder="Your Email" required />

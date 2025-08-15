@@ -39,7 +39,7 @@ const Navigation = () => {
         <div className='logo-and-link'>
           <a href="#home">
             <img src={yuiyui} alt="Portfolio Logo" className="port-logo"/>
-            <b>Portfolio</b>
+            <b>About Me</b>
           </a>
         </div>
         <ul className="nav-links">
